@@ -1,0 +1,15 @@
+
+  
+  .bancos-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+
+  
+  .banco-logo {
+    width: 200px; 
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
